@@ -1,7 +1,8 @@
 # Motor de Jogos em Lua (Love2D)
-
+![Love2D](https://img.shields.io/badge/Game%20Engine-Love2D-purple?logo=lua)
 ## 📖 Descrição
-Engine própria, desenvolvida em **Lua** utilizando a biblioteca **Love2D**.  
+Engine própria, desenvolvida em ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) utilizando a biblioteca ![Love2D](https://img.shields.io/badge/Love2D-pink?logo=heart)
+.  
 Este projeto está em desenvolvimento e tem como objetivo demonstrar minhas habilidades técnicas em programação, arquitetura de software e design de sistemas digitais aplicados a jogos 2D e jogos 3D.
 
 Item complementar do meu [portfólio](https://github.com/UnidadePhantom/Portf-lio.git) para fins de apresentação profissional.
