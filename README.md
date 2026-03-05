@@ -1,8 +1,10 @@
 # Motor de Jogos em Lua (Love2D)
 
 ## 📖 Descrição
-Engine própria desenvolvida em **Lua** utilizando a biblioteca **Love2D**.  
+Engine própria, desenvolvida em **Lua** utilizando a biblioteca **Love2D**.  
 Este projeto está em desenvolvimento e tem como objetivo demonstrar minhas habilidades técnicas em programação, arquitetura de software e design de sistemas digitais aplicados a jogos 2D e jogos 3D.
+
+Item complementar do meu [portfólio](https://github.com/UnidadePhantom/Portf-lio.git) para fins de apresentação profissional.
 
 ---
 
@@ -31,6 +33,6 @@ Este projeto está em desenvolvimento e tem como objetivo demonstrar minhas habi
 ---
 
 ## ⚠️ Aviso
-Este projeto é parte do meu portfólio e **não está autorizado para uso, cópia, download ou redistribuição** sem minha permissão explícita.  
+Este projeto é parte do meu [portfólio](https://github.com/UnidadePhantom/Portf-lio.git) e **não está autorizado para uso, cópia, download ou redistribuição** sem minha permissão explícita.  
 O conteúdo aqui publicado é **apenas para fins de apresentação profissional**.
 
